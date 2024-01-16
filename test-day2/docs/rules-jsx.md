@@ -1,0 +1,6 @@
+# Rules of jsx
+
+1. A component can only have a single parent node....
+<> </>
+
+2. Use className and not class... 
